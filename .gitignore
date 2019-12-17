@@ -1,0 +1,7 @@
+/binarized
+/class*
+/images*
+/resized
+*.csv
+/*.zip
+/*.checkpoints
